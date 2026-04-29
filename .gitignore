@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+models/tf_model.h5
+.cache/
+.vscode/
+Thumbs.db
